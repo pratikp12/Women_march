@@ -1,12 +1,12 @@
 # Women_march
 Women’s Marches that occurred in January 2017
 
-# Steps 
+# Steps: 
 
 I am uploding Jupyter notebook file which include all the steps.You just need to dwonload all csv files and notebook file.
 Jupyter Notebook file womenmarch.ipynb
 
-# output
+# output:
 ![](images/graph.png)
 
 
