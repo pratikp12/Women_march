@@ -1,0 +1,509 @@
+State,City,Turnout
+Alabama,Birmingham,7500
+Alabama,Huntsville,100
+Alabama,Mentone,70
+Alabama,Mobile,950
+Alaska,Adak,10
+Alaska,Anchorage,3500
+Alaska,Bethel,60
+Alaska,Cordova,100
+Alaska,Craig,25
+Alaska,Fairbanks,2000
+Alaska,Gustavus,100
+Alaska,Haines,150
+Alaska,Homer,900
+Alaska,Juneau,1000
+Alaska,Ketchikan,220
+Alaska,Kodiak,330
+Alaska,Kotzebue,36
+Alaska,Moose Pass,15
+Alaska,Nome,100
+Alaska,Palmer,950
+Alaska,Seldovia,45
+Alaska,Seward,62
+Alaska,Sitka,700
+Alaska,Skagway,112
+Alaska,Soldotna,261
+Alaska,Talkeetna,80
+Alaska,Unalakleet,38
+Alaska,Utqiagvik (Barrow),60
+Alaska,Valdez,120
+Arizona,Flagstaff,1600
+Arizona,Green Valley,400
+Arizona,Phoenix,20000
+Arizona,Prescott,1200
+Arizona,Tucson,15000
+Arizona,Yuma,250
+Arkansas,Bentonville,500
+Arkansas,Fayetteville,100
+Arkansas,Little Rock,7000
+California,Albany,500
+California,Avalon,44
+California,Berkeley,600
+California,Beverly Hills,275
+California,Bishop,580
+California,Borrego Springs,145
+California,Burbank,300
+California,Chico,300
+California,Compton,0
+California,El Centro,100
+California,Encinitas,50
+California,Eureka,6500
+California,Fairfax,42
+California,Fort Bragg,2650
+California,Fresno,2000
+California,Gualala,300
+California,Hemet,100
+California,Kings Beach,650
+California,Laguna Beach,250
+California,Laytonville,0
+California,Lompoc,300
+California,Long Beach,200
+California,Los Angeles,750000
+California,Modesto,1000
+California,Monterey Bay,1500
+California,Mt. Shasta,400
+California,Napa,3000
+California,Nevada City,100
+California,Oakhurst,200
+California,Oakland,100000
+California,Ontario,200
+California,Palm Desert,1000
+California,Palmdale,24
+California,Pasadena,500
+California,Redding,300
+California,Redondo Beach,1800
+California,Redwood City,5000
+California,Ridgecrest,190
+California,Riverside,4000
+California,Sacramento,20000
+California,San Bernardino,80
+California,San Clemente,300
+California,San Diego,45000
+California,San Francisco,125000
+California,San Jose,25000
+California,San Luis Obispo,8500
+California,San Marcos,6500
+California,Santa Ana,22500
+California,Santa Barbara,6000
+California,Santa Cruz,15000
+California,Santa Rosa,5000
+California,Seaside,1750
+California,Sonoma,3000
+California,South Lake Tahoe,600
+California,Ukiah,2000
+California,Vallejo,40
+California,Ventura,2500
+California,Visalia,500
+California,Walnut Creek,10000
+California,Watsonville,400
+California,Willits,60
+California,Yucca Valley,100
+Colorado,Alamosa,350
+Colorado,Aspen,750
+Colorado,Broomfield,200
+Colorado,Carbondale,250
+Colorado,Colorado Springs,7000
+Colorado,Cortez,452
+Colorado,Crested Butte,375
+Colorado,Denver,150000
+Colorado,Durango,100
+Colorado,Glenwood Springs,100
+Colorado,Grand Junction,1000
+Colorado,Lafayette,89
+Colorado,Ridgway,50
+Colorado,Silverton,33
+Colorado,Steamboat Springs,1000
+Colorado,Telluride,600
+Connecticut,East Haddam,300
+Connecticut,Hartford,10000
+Connecticut,New Haven,200
+Connecticut,Old Saybrook,1000
+Connecticut,Salisbury,500
+Connecticut,Stamford,5000
+Delaware,Lewes,250
+Delaware,Newark,1000
+Florida,Boca Raton,120
+Florida,Daytona Beach,100
+Florida,Fernandina Beach,1150
+Florida,Gainesville,1500
+Florida,Jacksonville,2500
+Florida,Key West,3200
+Florida,Melbourne,500
+Florida,Miami,10000
+Florida,Miami Beach,0
+Florida,Naples,2500
+Florida,New Smyrna Beach,1000
+Florida,Ocala,300
+Florida,Orlando,1000
+Florida,Panama City,500
+Florida,Pensacola,2000
+Florida,Sarasota,10000
+Florida,St. Augustine,2000
+Florida,St. Petersburg,20000
+Florida,Tallahassee,14000
+Florida,West Palm Beach,6000
+Georgia,Athens,700
+Georgia,Atlanta,60000
+Georgia,Augusta,600
+Georgia,Savannah,1000
+Georgia,Statesboro,200
+Georgia,Zebulon,35
+Guam,Hagåtña,100
+Hawaii,Hilo,1750
+Hawaii,Honolulu (Oahu),5500
+Hawaii,Kahului,1750
+Hawaii,Kawaihae,50
+Hawaii,Kona,3250
+Hawaii,Lihue (Kauai),1500
+Idaho,Boise,5000
+Idaho,Driggs,1000
+Idaho,Idaho Falls,500
+Idaho,Ketchum,1150
+Idaho,Moscow,2500
+Idaho,Pocatello,1100
+Idaho,Sandpoint,900
+Idaho,Stanley,30
+Illinois,Carbondale,900
+Illinois,Champaign-Urbana,5000
+Illinois,Chicago,250000
+Illinois,Elgin,600
+Illinois,Galesburg,300
+Illinois,Maryville,45
+Illinois,Peoria,1750
+Illinois,Rockford,1000
+Illinois,Springfield,1000
+Indiana,Evansville,200
+Indiana,Fort Wayne,1000
+Indiana,Indianapolis,4750
+Indiana,Lafayette,800
+Indiana,Paoli,67
+Indiana,South Bend,1000
+Indiana,St. Mary of the Woods,200
+Indiana,Terre Haute,200
+Indiana,Valparaiso,380
+Iowa,Bettendorf,100
+Iowa,Decorah,900
+Iowa,Des Moines,26000
+Iowa,Dubuque,400
+Iowa,Iowa City,1000
+Kansas,Topeka,4200
+Kansas,Wichita,3000
+Kentucky,Lexington,5000
+Kentucky,Louisville,5000
+Kentucky,Murray,700
+Kentucky,Pikeville,100
+Louisiana,Monroe,0
+Louisiana,New Orleans,12500
+Louisiana,Shreveport,100
+Maine,Augusta,10000
+Maine,Brunswick,300
+Maine,Eastport,111
+Maine,Ellsworth,60
+Maine,Fort Kent,0
+Maine,Gouldsboro,35
+Maine,Kennebunk,100
+Maine,Lubec,100
+Maine,Monhegan Island,22
+Maine,Portland,10000
+Maine,Sanford,0
+Maine,Surry,0
+Maine,Tenants Harbor,55
+Maine,Vinalhaven,88
+Maryland,Accident,54
+Maryland,Annapolis,1600
+Maryland,Baltimore,5000
+Maryland,Frederick,1000
+Maryland,Ocean City,100
+Maryland,St. Mary's City,10
+Massachusetts,Boston,162500
+Massachusetts,Falmouth,1500
+Massachusetts,Greenfield,2000
+Massachusetts,Martha's Vineyard,100
+Massachusetts,Nantucket,400
+Massachusetts,Northampton,1000
+Massachusetts,Pittsfield,1640
+Massachusetts,Provincetown,300
+Massachusetts,Wellfleet,113
+Massachusetts,Worcester,0
+Michigan,Adrian,140
+Michigan,Ann Arbor,11000
+Michigan,Brighton,300
+Michigan,Clare,24
+Michigan,Detroit,4000
+Michigan,Douglas-Saugatuck,1850
+Michigan,Grand Rapids,100
+Michigan,Grosse Pointe,1222
+Michigan,Houghton,500
+Michigan,Kalamazoo,1000
+Michigan,Lansing,10000
+Michigan,Marquette,500
+Michigan,Midland,400
+Michigan,Sault Ste Marie,40
+Michigan,Tecumseh,35
+Michigan,Traverse City,3000
+Michigan,Ypsilanti,1500
+Minnesota,Bemidji,375
+Minnesota,Cambridge,22
+Minnesota,Duluth,1400
+Minnesota,Ely,50
+Minnesota,Grand Marais,120
+Minnesota,Longville,67
+Minnesota,Mankato,50
+Minnesota,Minneapolis,100
+Minnesota,Morris,250
+Minnesota,Rochester,800
+Minnesota,St. Cloud,40
+Minnesota,St. Paul,95000
+Mississippi,Gulfport,300
+Mississippi,Hattiesburg,0
+Mississippi,Jackson,1000
+Mississippi,Oxford,450
+Missouri,Columbia,2000
+Missouri,Kansas City,10000
+Missouri,Springfield,2000
+Missouri,St. Louis,13000
+Montana,Bozeman,13
+Montana,Helena,10000
+Montana,Missoula,85
+Nebraska,Lincoln,2900
+Nebraska,Loup City,125
+Nebraska,Omaha,13000
+Nevada,Las Vegas,5000
+Nevada,Reno,10000
+Nevada,Stateline,500
+New Hampshire,Concord,1000
+New Hampshire,Francestown,134
+New Hampshire,Jackson,300
+New Hampshire,Keene,300
+New Hampshire,Lancaster,400
+New Hampshire,Portsmouth,4000
+New Hampshire,Wilton,200
+New Jersey,Asbury Park,6000
+New Jersey,Leonia,250
+New Jersey,Mt. Laurel,20
+New Jersey,Pequannock Township/Pompton Plains,900
+New Jersey,Red Bank,200
+New Jersey,Sicklerville,200
+New Jersey,South Orange,200
+New Jersey,Trenton,6750
+New Jersey,Westfield,1000
+New Jersey,Wyckoff,400
+New Mexico,Albuquerque,10000
+New Mexico,Deming,48
+New Mexico,Las Cruces,1500
+New Mexico,Santa Fe,12500
+New York,Albany,7000
+New York,Binghamton,3000
+New York,Buffalo,4500
+New York,Canton,135
+New York,Cobleskill,350
+New York,Cooperstown,200
+New York,Delhi,200
+New York,Fredonia,70
+New York,Glens Falls,1500
+New York,Hudson,2500
+New York,Ithaca,10000
+New York,Lewis County,236
+New York,New York City,400000
+New York,Oneonta,500
+New York,Plattsburgh,200
+New York,Port Jefferson,2000
+New York,Port Jervis,425
+New York,Poughkeepsie,5000
+New York,Rochester,1500
+New York,Sag Harbor,250
+New York,Seneca Falls,10000
+New York,Syracuse,2000
+New York,Utica,100
+New York,Watertown,250
+New York,Woodstock,1000
+North Carolina,Asheville,8500
+North Carolina,Black Mountain,100
+North Carolina,Charlotte,25000
+North Carolina,Greensboro,4500
+North Carolina,Hillsborough,0
+North Carolina,Mooresville,70
+North Carolina,Morganton,500
+North Carolina,New Bern,600
+North Carolina,Raleigh,17000
+North Carolina,Wilmington,3000
+North Carolina,Winston-Salem,0
+North Dakota,Bismarck,500
+North Dakota,Fargo,3000
+North Dakota,Grand Forks,304
+Ohio,Athens,175
+Ohio,Chillicothe,1000
+Ohio,Cincinnati,7000
+Ohio,Cleveland,15000
+Ohio,Columbus,3000
+Ohio,Dayton,3000
+Ohio,Kent,100
+Ohio,Lakeside,300
+Ohio,Mount Vernon,25
+Ohio,Toledo,100
+Ohio,Troy,175
+Ohio,Wooster,750
+Ohio,Yellow Springs,250
+Oklahoma,Oklahoma City,12000
+Oklahoma,Tulsa,1000
+Oregon,Ashland,8000
+Oregon,Astoria,550
+Oregon,Bandon,65
+Oregon,Bend,5000
+Oregon,Brookings,275
+Oregon,Burns,20
+Oregon,Coos Bay,200
+Oregon,Corvallis,100
+Oregon,Eugene,7000
+Oregon,Florence,300
+Oregon,Halfway,31
+Oregon,Hood River,200
+Oregon,Joseph,300
+Oregon,Klamath Falls,200
+Oregon,La Grande,400
+Oregon,McMinnville,700
+Oregon,Newport,1500
+Oregon,Pendleton,425
+Oregon,Port Orford,290
+Oregon,Portland,100000
+Oregon,Salem,2000
+Oregon,Sandy,0
+Oregon,Tillamook,300
+Oregon,Welches,0
+Pennsylvania,Beaver,300
+Pennsylvania,Bethlehem,500
+Pennsylvania,Bloomsburg,50
+Pennsylvania,Doylestown,2000
+Pennsylvania,Erie,2500
+Pennsylvania,Harrisburg,1100
+Pennsylvania,Indiana,150
+Pennsylvania,Lancaster,100
+Pennsylvania,Lewisburg,175
+Pennsylvania,Philadelphia,50000
+Pennsylvania,Pittsburgh,25000
+Pennsylvania,Reading,100
+Pennsylvania,Riegelsville,170
+Pennsylvania,Selinsgrove,120
+Pennsylvania,Sharon,700
+Pennsylvania,State College,400
+Pennsylvania,West Chester,175
+Puerto Rico,Mayaguez,0
+Puerto Rico,San Juan,0
+Puerto Rico,Santurce,0
+Puerto Rico,Vieques,200
+Rhode Island,Providence,5000
+South Carolina,Beaufort,0
+South Carolina,Charleston,2000
+South Carolina,Clemson,500
+South Carolina,Columbia,2500
+South Carolina,Greenville,2000
+South Dakota,Pierre,130
+South Dakota,Rapid City,1000
+South Dakota,Sioux Falls,3300
+South Dakota,Vermillion,500
+Tennessee,Chattanooga,3000
+Tennessee,Jonesborough,1000
+Tennessee,Knoxville,2000
+Tennessee,Memphis,9000
+Tennessee,Murfreesboro,0
+Tennessee,Nashville,15000
+Tennessee,Oak Ridge,500
+Texas,Abilene,200
+Texas,Alpine,96
+Texas,Amarillo,500
+Texas,Austin,45000
+Texas,Beaumont,200
+Texas,Brownsville,300
+Texas,College Station,50
+Texas,Corpus Christi,24
+Texas,Dallas,5000
+Texas,Denton,2500
+Texas,Eagle Pass,60
+Texas,El Paso,1000
+Texas,Fort Worth,7000
+Texas,Houston,22000
+Texas,Lubbock,350
+Texas,Marfa,80
+Texas,Midland,50
+Texas,Nacogdoches,250
+Texas,San Antonio,1500
+Texas,Wichita Falls,175
+United States Virgin Islands,St. Croix,500
+United States Virgin Islands,St. John,200
+United States Virgin Islands,St. Thomas,300
+Utah,Bluff,48
+Utah,Kanab,175
+Utah,Logan,50
+Utah,Moab,275
+Utah,Ogden,300
+Utah,Park City,8000
+Utah,Saint George,1400
+Utah,Salt Lake City,5700
+Vermont,Brattleboro,250
+Vermont,Killington,82
+Vermont,Montpelier,20000
+Virginia,Alexandria,17
+Virginia,Arlington,0
+Virginia,Charlottesville,1000
+Virginia,Floyd,200
+Virginia,Norfolk,2000
+Virginia,Onley,60
+Virginia,Richmond,2000
+Virginia,Roanoke,4000
+Virginia,St. John,200
+Virginia,Staunton,100
+Virginia,Williamsburg,850
+Virginia,Winchester,1000
+Virginia,Woodstock,400
+Washington,Anacortes,1200
+Washington,Bainbridge Island,12
+Washington,Bellingham,7500
+Washington,Chelan,450
+Washington,Eastsound,250
+Washington,Ephrata,250
+Washington,Forks,35
+Washington,Friday Harbor,1500
+Washington,Issaquah,56
+Washington,Kingston,40
+Washington,Langley,1500
+Washington,Longview,200
+Washington,Mount Vernon,100
+Washington,Ocean Shores,150
+Washington,Olympia,10000
+Washington,Port Angeles,200
+Washington,Port Townsend,300
+Washington,Richland,1000
+Washington,Seattle,175000
+Washington,Sequim,100
+Washington,Spokane,8000
+Washington,Twisp,800
+Washington,Vancouver,150
+Washington,Vashon,250
+Washington,Walla Walla,2000
+Washington,Wenatchee,2000
+Washington,Yakima,850
+Washington DC,Washington DC,500000
+West Virginia,Charleston,3000
+West Virginia,Fairmont,100
+Wisconsin,Appleton,3
+Wisconsin,Bayfield,400
+Wisconsin,Eau Claire,250
+Wisconsin,Fort Atkinson,200
+Wisconsin,Green Bay,200
+Wisconsin,Hillsboro,40
+Wisconsin,La Crosse,88
+Wisconsin,Madison,8750
+Wisconsin,Marquette,1000
+Wisconsin,Menomonie,400
+Wisconsin,Milwaukee,1
+Wisconsin,Plymouth,200
+Wisconsin,Sheboygan,300
+Wisconsin,Wausau,200
+Wyoming,Casper,650
+Wyoming,Cheyenne,1750
+Wyoming,Cody,500
+Wyoming,Jackson Hole,1000
+Wyoming,Lander,350
+Wyoming,Pinedale,150
+Wyoming,Rock Springs,0
